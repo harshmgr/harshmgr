@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshmgr
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Software Development and Android Development.
+- 🌱 I’m currently learning Data Structure and Algorithms to enhance my coding and logic building skills.
 - 📫 How to reach me on LinkedIn:https://www.linkedin.com/in/harshkumar001/
 
 <!---
