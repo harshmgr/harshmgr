@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Harsh Kumar a <b>final year</b> Postgraduate from <a href="https://uom.lk/"> <b>Savitribai Phule Pune University</b>, India</a>.<br>
+    Hello, I am Harsh Kumar a <b>final year</b> Postgraduate from <a href="http://www.unipune.ac.in/"> <b>Savitribai Phule Pune University</b>, India</a>.<br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data Structure and Algorithms</b> and always looking to find patterns of which are hidden in the questions. 
   </em> 
